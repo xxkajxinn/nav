@@ -20,7 +20,6 @@
     "items": [
       { "name": "百度翻译", "url": "https://fanyi.baidu.com" },
       { "name": "腾讯邮箱", "url": "https://mail.qq.com" },
-      { "name": "谷歌地图", "url": "https://maps.google.com" }
     ]
   }
 ]
